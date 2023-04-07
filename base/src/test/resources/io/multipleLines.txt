@@ -1,0 +1,7 @@
+# comment
+
+  leading // SPACE
+trailing space  
+with		tabs
+ spaces		AND		tabs
+trailing  # comments

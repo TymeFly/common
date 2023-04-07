@@ -1,0 +1,15 @@
+<books source="XML">
+	<book id="1" export="n">
+		<title>Book 1</title>
+		<publisher/>
+		<author>John Johnson</author>
+		<author>Robert Robertson</author>
+		<contact copyright="holder">
+			<phone>555 12345678</phone>
+			<email>example@example.com</email>
+		</contact>
+	</book>
+	<book id="2">
+		<title>Book 2</title>
+	</book>
+</books>

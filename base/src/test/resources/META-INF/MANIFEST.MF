@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 11
+common-test-empty: 
+common-test-string: Hello
+common-test-number: 12
+common-test-boolean: enabled
+common-test-enum: A
+
+

@@ -1,0 +1,6 @@
+{
+  "string": "String",
+  "number": 123,
+  "boolean": true,
+  "null" : null
+}

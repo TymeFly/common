@@ -1,0 +1,2 @@
+The time is ${time-only}. The date is ${time-date}
+${xxxx}

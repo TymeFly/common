@@ -1,0 +1,45 @@
+{
+  "x" : null,
+  "root": {
+    "child": {
+      "string": "String",
+      "number": 123,
+      "boolean": true
+    },
+    "empty": [
+    ],
+    "strings": [
+      "One",
+      null,
+      "Three"
+    ],
+    "numbers": [
+      null,
+      2,
+      3.4
+    ],
+    "booleans": [
+      true,
+      null,
+      false
+    ],
+    "docs": [
+      {
+        "one": "One"
+      },
+      {
+        "two": null,
+        "data": [
+          1,
+          "x",
+          "y",
+          "z"
+        ]
+      },
+      {
+        "three": "Three",
+        "data": null
+      }
+    ]
+  }
+}
